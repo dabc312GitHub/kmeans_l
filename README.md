@@ -2,7 +2,7 @@
 
 ## Requisitos en C++:
 - std=c++14
-- freeGLUT
+- [freeGLUT](https://www.transmissionzero.co.uk/software/freeglut-devel/)
 
 ## Conclusiones:
 Como la dataset, sample_out.csv y yellow_taxi.csv, entre los valores de X son muy cercanos y los de Y de igual manera en su distribución, esta muestra problemas para categorizar como el ejemplo de valores aleatorios que provee una mejor distribución de data.
